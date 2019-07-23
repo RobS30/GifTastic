@@ -1,0 +1,8 @@
+.container-box {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .reactionDiv {
+    width: calc((100%/3));
+  }
